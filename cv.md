@@ -1,18 +1,20 @@
 # Yan Barkov
+
 ## Contacts
-    * **e-mail:** barkov83@yandex.ru
-    * **discord:** barkov83
-    * **Telegram:** [barkov83](https://t.me/barkov83)
+*e-mail:** barkov83@yandex.ru
+*discord:** barkov83
+*Telegram:** [barkov83](https://t.me/barkov83)
+
 ## About me
 
 I work in the field of sales of building materials. I think that the field of software development will continue to develop actively. My goal is to gain knowledge and make skills in front-end development.
 
 ## My skiil is beginner
-    * HTML;
-    * CSS;
-    * Adaptive layout;
-    * BEM methodology;
-    * Javascript;
+* HTML;
+* CSS;
+* Adaptive layout;
+* BEM methodology;
+* Javascript;
 
 ## Example of code
 ```
@@ -28,11 +30,11 @@ I have two study projects:
 [Project 1] (https://barkov83.github.io/russian-travel/index.html)
 [Project 2] (https://barkov83.github.io/mesto/)
 
-7. ## Education
+## Education
 
-First education: Samara State Technical University. Qualification: Engineer.
-Second education: Moscow State University of Economics, Statistics and Informatics. Qualification: manager.
++ First education: Samara State Technical University. Qualification: Engineer.
++ Second education: Moscow State University of Economics, Statistics and Informatics. Qualification: manager.
 
 8. ## Languages
-    * Russian - Native
-    * English - Beginner
+    Russian - Native
+    English - Beginner
