@@ -1,37 +1,38 @@
-1. # Yan Barkov
-----
-2. ## Contacts:
+# Yan Barkov
+## Contacts
     * **e-mail:** barkov83@yandex.ru
     * **discord:** barkov83
     * **Telegram:** [barkov83](https://t.me/barkov83)
-----
-3. ## About me: 
+## About me
+
 I work in the field of sales of building materials. I think that the field of software development will continue to develop actively. My goal is to gain knowledge and make skills in front-end development.
-----
-4. ## My skiil is beginner:
+
+## My skiil is beginner
     * HTML;
     * CSS;
     * Adaptive layout;
     * BEM methodology;
     * Javascript;
-----
-5. ## Example of code
+
+## Example of code
 ```
 function multiply(a, b){
   return a * b
 }
 console.log (multiply(3,15));
 ```
-6. ## Experience of working
+## Experience of working
+
 I have extensive experience as a sales manager and customer relationship development.
 I have two study projects: 
 [Project 1] (https://barkov83.github.io/russian-travel/index.html)
 [Project 2] (https://barkov83.github.io/mesto/)
----
+
 7. ## Education
+
 First education: Samara State Technical University. Qualification: Engineer.
 Second education: Moscow State University of Economics, Statistics and Informatics. Qualification: manager.
-----
+
 8. ## Languages
     * Russian - Native
     * English - Beginner
