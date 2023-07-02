@@ -1,2 +1,1 @@
-# rsschool-cv
-Preparatory course "JavaScript/Front-end. Stage 0»
+https://barkov83.github.io/rsschool-cv/cv
